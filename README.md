@@ -14,6 +14,12 @@ Beta version hosted on [heroku](https://stemettes-staging.herokuapp.com/)
 
 We had two weeks to learn Rails and complete this project. We managed to include all the features that our client wanted. The application can be improved by adding some features such as geo location, barcode scanner to make it even more user friendly.
 
+#### Technologies
+RSpec / Capybara
+Ruby on Rails
+Heroku
+Travis
+
 ### Prupose of the app:
 There are two sections in the app user interface and admin interface.
 
@@ -22,3 +28,6 @@ This interface will be used by STEMettes girls to complete pre and post surveys 
 
 admin-interface
 This interface will be used by organizers of the event to view responses of the event and perform some other admin tasks.
+
+
+
